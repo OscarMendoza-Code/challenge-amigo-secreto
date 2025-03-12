@@ -1,6 +1,7 @@
-Crear el README
+<h1>Challenge amigo secreto</h1>
 
-Challenge amigo secreto
- 
- ```Declarar variables listaNombres cajaNombres
+-Estado del proyecto: declarando variables
+
+ ```listaNombres
+ cajaNombres```
 
