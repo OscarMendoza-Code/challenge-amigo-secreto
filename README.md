@@ -2,6 +2,6 @@
 
 -Estado del proyecto: declarando variables
 
- ```listaNombres
- cajaNombres```
+ ```listaNombres```
+```cajaNombres```
 
