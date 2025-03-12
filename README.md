@@ -7,6 +7,8 @@
 ```listaAmigosBoton```
 
 -Funcion para meter los nombres en la lista Ok
+
 -Monstrar el alert que diga si el campo esta vacio 
+
 -Funcion para limpiart el imput 
 
