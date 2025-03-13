@@ -1,6 +1,6 @@
 <h1>Challenge amigo secreto</h1>
 
--Estado del proyecto: limpiando el input y mostrando el alert
+<h2>Estado del proyecto: En Desarrollo</h2>h2>
 
 <p>Variables</p>
 
@@ -13,9 +13,7 @@
 ```Agregar los nombres a la lista
 
 Monstrar el alert que diga si el campo esta vacio 
-
 Limpiar el imput
-
 Funcion para limpiart el imput```
 
-<p>Funcion para sortear amigo</p>
+<p>Funcion para agregar amigos</p>
