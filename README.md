@@ -10,12 +10,12 @@
 
 <p>Funcion para agregar amigos</p>
  
--Agregar los nombres a la lista
+```Agregar los nombres a la lista
 
--Monstrar el alert que diga si el campo esta vacio 
+Monstrar el alert que diga si el campo esta vacio 
 
--Limpiar el imput
+Limpiar el imput
 
--Funcion para limpiart el imput 
+Funcion para limpiart el imput
 
-<p>Funcion para sortear amigo</p>
+<p>Funcion para sortear amigo</p>```
