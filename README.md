@@ -9,6 +9,7 @@
 ```listaBoton```
 
 <p>Funcion para agregar amigos</p>
+
 ```
 Agregar los nombres a la lista
 Monstrar el alert que diga si el campo esta vacio 
