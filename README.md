@@ -18,4 +18,4 @@ Funcion para limpiart el imput
 
 ```
 
-<p>Funcion para agregar amigos</p>
+<p>Funcion para sortear amigos</p>
