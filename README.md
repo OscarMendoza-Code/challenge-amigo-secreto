@@ -3,9 +3,11 @@
 -Estado del proyecto: limpiando el input y mostrando el alert
 
 <p>Variables</p>
+
  ```InputNombres```
 ```listaNombres```
 ```listaBoton```
+
 <p>Funcion para agregar amigos</p>
  
 -Agregar los nombres a la lista
