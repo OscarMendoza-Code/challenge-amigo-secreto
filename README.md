@@ -16,6 +16,6 @@ Monstrar el alert que diga si el campo esta vacio
 
 Limpiar el imput
 
-Funcion para limpiart el imput
+Funcion para limpiart el imput```
 
-<p>Funcion para sortear amigo</p>```
+<p>Funcion para sortear amigo</p>
