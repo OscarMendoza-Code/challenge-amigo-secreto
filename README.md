@@ -7,6 +7,7 @@
  ```InputNombres```
 ```listaNombres```
 ```listaBoton```
+```mensajeResultado```
 
 <p>Funcion para agregar amigos</p>
 
