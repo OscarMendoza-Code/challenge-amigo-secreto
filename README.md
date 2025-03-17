@@ -19,3 +19,11 @@ Funcion para limpiart el imput
 ```
 
 <p>Funcion para sortear amigos</p>
+
+```
+
+Crear un numero aleatorio 
+Selecciona un numero de la lista
+Muestra el texto = Tu amigo Secreto es " "
+
+```
