@@ -1,6 +1,6 @@
 <h1>Challenge amigo secreto</h1>
 
-<h2>Estado del proyecto: En Desarrollo</h2>
+<h2>Estado del proyecto: Concluido 17/Marzo/2024</h2>
 
 <p>Variables</p>
 
